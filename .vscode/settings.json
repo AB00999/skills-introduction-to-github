@@ -1,0 +1,18 @@
+{
+    "dbcode.connections": [
+        {
+            "connectionId": "v_RVBkKIr0TVD4VujreiI",
+            "name": "ITG",
+            "driver": "sqlite",
+            "socket": "/workspaces/.codespaces/.persistedshare/client-environment-settings.json",
+            "readOnly": true,
+            "role": "testing",
+            "driverOptions": {
+                "extensions": [
+                    "sqlite-vec"
+                ]
+            },
+            "connectionType": "socket"
+        }
+    ]
+}
